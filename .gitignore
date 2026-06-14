@@ -5,7 +5,10 @@ node_modules/
 
 # Expo
 .expo/
+.dotslash-cache/
+.codex-remote-attachments/
 dist/
+dist-android-check/
 web-build/
 expo-env.d.ts
 
