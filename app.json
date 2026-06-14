@@ -26,6 +26,12 @@
     },
     "plugins": [
       "expo-web-browser"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0be544d1-b012-4fb4-8c65-f475a4882b6a"
+      }
+    },
+    "owner": "harik10"
   }
 }
